@@ -1,0 +1,34 @@
+
+---
+
+## ✅ Validation
+- Required fields are checked before creating or updating users
+- Invalid requests return appropriate error messages
+
+---
+
+## 🔁 Middleware
+- Logging middleware logs each request
+- Validation middleware ensures correct input data
+
+---
+
+## 🤖 Use of GitHub Copilot
+GitHub Copilot was used to:
+- Debug route handling issues
+- Improve validation logic
+- Suggest middleware structure
+- Fix syntax and runtime errors during development
+
+---
+
+## 📂 How to Run the Project
+1. Clone the repository  
+2. Run `npm install`  
+3. Start the server with `node index.js`  
+4. Use Postman or browser to test endpoints
+
+---
+
+## 👤 Author
+Papa Moussa Sanogo
